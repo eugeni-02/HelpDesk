@@ -5,13 +5,6 @@
 **korisničko ime:** iivic <br>
 **lozinka:** iivic
 
-## Podaci o studentu
-
-Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
-------------  | ------------------- | ----- | ---------------------
-Eugen Ivanišević | eivanisev21@student.foi.hr | 0016153496 | eivanisev21
-
-
 ## Opis domene
 Ovo softversko rješenje rješava problem prijave kvara ili tehničkog problema CIP-u.
 
