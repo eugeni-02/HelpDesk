@@ -12,7 +12,7 @@ Ovo softversko rješenje rješava problem prijave kvara ili tehničkog problema 
 Sustav treba omogućiti korisniku: kreiranje zahtjeva, pregledavanje zahtjeva, dodjelu zahtjeva djelatniku CIP-a, dodjelu prioriteta zahtjevu, pisanje komentara te izradu analitike.
 
 ## Zadatak
-https://github.com/foivz/pi2023-zadace-eivanisev21/blob/master/Documentation/Zadatak%20-%20Help%20Desk%20za%20CIP.pdf
+[https://github.com/foivz/pi2023-zadace-eivanisev21/blob/master/Documentation/Zadatak%20-%20Help%20Desk%20za%20CIP.pdf](https://github.com/eugeni-02/HelpDesk/blob/main/Documentation/Zadatak%20-%20Help%20Desk%20za%20CIP.pdf)
 
 ## Resursi
 
